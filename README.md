@@ -4,9 +4,16 @@ simple e-commerce system with functionalities for administrators,
 customers, and products. It allows administrators to manage users and
 products, customers to interact with their shopping carts, and products to
 be managed within the system.
+
+
+
 Files:
 Administrator.java: Defines the Administrator class representing an
 administrator with attributes and methods for managing users and products.
+
+
+
+
 AdministratorService.java: Defines the AdministratorService interface for
 remote methods related to administrator functionalities.
 AdministratorServiceImpl.java: Implements the AdministratorService
