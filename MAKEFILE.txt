@@ -1,0 +1,11 @@
+all:
+	javac -d . *.java
+run-server:
+	java store.Server
+
+run-client:
+	java store.Client
+
+
+clean:
+	rm *.class
